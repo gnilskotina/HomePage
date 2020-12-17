@@ -1,1 +1,2 @@
-page for about:newtab
+StartPage/HomePage/NewTab for browser.
+for install need NewTabOverride
